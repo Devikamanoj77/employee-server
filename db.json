@@ -1,0 +1,10 @@
+{
+  "uploadEmployees": [
+    {
+      "id": "",
+      "name": "Devika",
+      "email": "dev@gmail.com",
+      "status": "Active"
+    }
+  ]
+}
